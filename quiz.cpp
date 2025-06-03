@@ -39,8 +39,9 @@ int main(){
             std::cout << "Wrong! The correct answer is: " << answer[i] << std::endl;
         }
     }
-
+    std::cout << "*******************************\n";
     std::cout << "Your score is: " << score << " out of " << size << std::endl;
+    std::cout << "*******************************\n";
 
     return 0;
 }
