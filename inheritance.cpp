@@ -23,8 +23,6 @@ class Cat : public Animal{
     }
 };
 
-
-
 int main(){
     Dog dog;
     Cat cat;
