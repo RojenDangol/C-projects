@@ -55,6 +55,8 @@
     "optional": "cpp",
     "random": "cpp",
     "vector": "cpp",
-    "list": "cpp"
+    "list": "cpp",
+    "map": "cpp",
+    "xtree": "cpp"
   }
 }
